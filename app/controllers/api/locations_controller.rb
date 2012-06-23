@@ -22,5 +22,10 @@ class Api::LocationsController < ApplicationController
     @locations = Location.find_all_by_category_id(params[:id])
     render "locations/category"
   end
+  
+  def categories
+    @categories = Category.all
+    render "locations/categories"
+  end
 
 end

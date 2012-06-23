@@ -13,5 +13,8 @@ categories = Category.create([
     { title: 'Adventure Playgrounds' },
     { title: 'Libraries' },
     { title: 'Community Toilets' },
-    { title: 'Recycling Banks' }
+    { title: 'Recycling Banks' },
+    { title: 'Polling Stations'},
+    { title: 'Schools' },
+    { title: 'Leisure Centres'}
 ])
