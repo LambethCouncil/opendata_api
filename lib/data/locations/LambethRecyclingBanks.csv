@@ -1,0 +1,23 @@
+Name,Postcode,Notes,CO_MINGLED,TEXTILES,SHOES,BOOKS,MEDIA,PRINTER_CARTRIDGES,WASTE_ELECTRICAL,Easting,Northing
+"Windmill Drive, Clapham Common South Side",SW4 9DA,"CM, T, S, W",Yes,Yes,Yes,No,No,No,Yes,529065.026,174779.6239
+"Weir Road, junction with Atkins Road",SW12 0NN,CM,Yes,No,No,No,No,No,No,529490.4511,173744.4096
+"Sainsburys, Wandsworth Road",SW8 2LF,"CM, W",Yes,No,No,No,No,No,Yes,530035.9559,177401.5077
+Voltaire Road,SW4 6DH,CM,Yes,No,No,No,No,No,No,529846.1176,175667.8603
+"Telford Avenue, junction with Streatham Hill",SW2 4RB,"CM, T, S, W",Yes,Yes,Yes,No,No,No,Yes,530413.5216,173143.6159
+"Studley Road, junction with Binfield Road",SW4 6RA,"CM, W",Yes,No,No,No,No,No,Yes,530429.9421,176517.6061
+"Streatham High Road, junction with Gracefield Gardens",SW16 2TA,"CM, W",Yes,No,No,No,No,No,Yes,530198.7014,172101.8142
+"St John's Crescent, junction with Brixton Road",,"CM, W",Yes,No,No,No,No,No,Yes,531157.4493,175831.571
+"Sainsburys, Streatham High Road",SW16 3PY,"CM, S, B, M",Yes,No,Yes,Yes,Yes,No,No,530255.4222,170563.9973
+"Sainsburys, Clapham High Street",SW4 7SL,CM,Yes,No,No,No,No,No,No,529596.0656,175368.8472
+"Hardel Rise, junction with Christchurch Road",SW2 3DQ,"CM, T, S, W",Yes,Yes,Yes,No,No,No,Yes,531531.8155,172980.501
+Crystal Palace Parade,,"CM, W",Yes,No,No,No,No,No,Yes,533672.0121,170738.1604
+"Clapham Road, junction with Albert Square",SW8 1HY,M,No,No,No,No,Yes,No,No,530771.2298,176958.7875
+"Chapel Road, junction with Knight's Hill",SE27 0TY,"CM, T, S, W",Yes,Yes,Yes,No,No,No,Yes,531882.2045,171574.3484
+"Brixton Hill, junction with Jebb Avenue",SW2 1SD,CM,Yes,No,No,No,No,No,Yes,530599.8321,174198.2957
+"Beadman Street, junction with Ernest Avenue",SE27 0HH,"CM, T, S",Yes,Yes,Yes,No,No,No,No,531967.8652,171799.2248
+"Acre Lane, Tesco",SW2 5RS,"CM, T, S, B, M, W",Yes,Yes,Yes,Yes,Yes,No,Yes,530778.6955,175157.2694
+"Barrington Road, outside shopping parade",SW9 7EH,"CM, T, S, W",Yes,Yes,Yes,No,No,No,Yes,531731.4567,175911.8663
+Baylis Road,SE1 7AA,"CM, T, S, W",No,Yes,Yes,No,No,No,Yes,531256.42,179766.11
+The Pavement,,"CM, T, S, P, W",Yes,Yes,Yes,No,No,Yes,Yes,529390.5376,175265.5984
+"King's Avenue, junction with Clarence Avenue",SW4 8EB,"CM, W",Yes,No,No,No,No,No,Yes,530055.695,531737.25
+"Nettlefold Hall, Norwood High Street",SE27 9JX,"CM, W",Yes,No,No,No,No,No,Yes,531863.4952,172030.9
