@@ -26,6 +26,10 @@ List all locations:
 
     /api/v1/locations
 
+    # ... or as a Javascript array for GMaps
+
+	/api/v1/locations/gmaps
+
 List locations by category:
 
     /api/v1/locations/category/1/
