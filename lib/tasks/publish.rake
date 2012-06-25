@@ -74,7 +74,7 @@ namespace :publish do
         amount = amount.gsub(/,/,'').gsub(/\u00A3/,'')
       
         # Ensure this isn't a duplicate expense
-        expense = Expense.where('supplier = ? and amount = ? and date = ?', supplier.strip, amount, date).first             
+        expense = Expense.where('supplier = ? and amount = ? and date = ?', supplier.strip, amount.to_f, date).first             
         if expense.nil? && amount.to_i > 0
         
           # Publish new expense
