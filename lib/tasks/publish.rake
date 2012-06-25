@@ -25,7 +25,7 @@ namespace :publish do
       if latitude && longitude && name
 
         # Ensure this isn't a duplicate row
-        location = Location.where('name = ? and latitude = ? and longitude = ?', name.strip, latitude, longitude).first             
+        location = Location.where('name = ? and latitude = ? and longitude = ?', name.strip, latitude.to_s, longitude.to_s).first             
         if location.nil? 
           
           # Publish new location

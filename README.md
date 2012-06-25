@@ -24,23 +24,23 @@ For example:
 
 List all locations:
 
-    /api/v1/locations
+    http://lambeth-api.herokuapp.com/api/v1/locations
 
     # ... or as a Javascript array for GMaps
 
-	/api/v1/locations/gmaps
+	http://lambeth-api.herokuapp.com/api/v1/locations/gmaps
 	
 List location categories:
 
-    /api/v1/locations/categories
+    http://lambeth-api.herokuapp.com/api/v1/locations/categories
 
 List locations by category:
 
-    /api/v1/locations/category/1/
+    http://lambeth-api.herokuapp.com/api/v1/locations/category/1/
 
 Show single location:
 
-    /api/v1/locations/1
+    http://lambeth-api.herokuapp.com/api/v1/locations/1
 
 ### 2. Data format: Expenses
 
@@ -58,15 +58,15 @@ To import from CSV:
 
 List all expenses:
 
-    /api/v1/expenses
+    http://lambeth-api.herokuapp.com/api/v1/expenses
 
 Show single expense
 
-	/api/v1/expenses/:id
+	http://lambeth-api.herokuapp.com/api/v1/expenses/:id
 
 Search expenses:
 
-	/api/v1/expenses/search
+	http://lambeth-api.herokuapp.com/api/v1/expenses/search
 
 	# Query params
 
@@ -76,7 +76,7 @@ Search expenses:
 
 	# For example:
 
-    /api/v1/expenses/search?supplier=Group
-    /api/v1/expenses/search?from=2011-04-01&to=2012-01-01
-	/api/v1/expenses/search?from=2011-04-01&to=2012-01-01&supplier=Group
+    http://lambeth-api.herokuapp.com/api/v1/expenses/search?supplier=Group
+    http://lambeth-api.herokuapp.com/api/v1/expenses/search?from=2011-04-01&to=2012-01-01
+	http://lambeth-api.herokuapp.com/api/v1/expenses/search?from=2011-04-01&to=2012-01-01&supplier=Group
 
