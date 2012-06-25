@@ -65,8 +65,8 @@ namespace :publish do
       date = row[2]
       
       # Hack to get date from filename, ideally the CSV should include this as row[2]
-      #date_string = args[:filename].match(/([a-zA-Z]*)(500)(.*)\.csv/)
-      #date = Date.parse(date_string[3])
+      date_string = args[:filename].match(/([a-zA-Z]*)(500)(.*)\.csv/)
+      date = Date.parse(date_string[3])
      
       # Skip invalid rows
       if amount.present? && supplier.present? && supplier.strip != "Grand Total"
