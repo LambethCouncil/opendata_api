@@ -2,6 +2,11 @@
 
 An API and publishing tool for Lambeth Open Data.
 
+## Todo
+
+ - Respond_to JSONP
+ - Probably loads of other stuff...
+
 ## Data types
 
 In order to publish data to the API, they should be formatted as one of the following:
